@@ -1,0 +1,81 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/big-message-bg.png",
+                "type": "image",
+                "key": "big-message-bg"
+            },
+            {
+                "url": "assets/images/block.png",
+                "type": "image",
+                "key": "block"
+            },
+            {
+                "url": "assets/images/chip-sel-frame.png",
+                "type": "image",
+                "key": "chip-sel-frame"
+            },
+            {
+                "url": "assets/images/field.png",
+                "type": "image",
+                "key": "field"
+            },
+            {
+                "url": "src/scripts/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
+                "url": "assets/images/home-block.png",
+                "type": "image",
+                "key": "home-block"
+            },
+            {
+                "url": "src/scripts/InputManager.js",
+                "type": "script",
+                "key": "InputManager"
+            },
+            {
+                "url": "assets/images/move-confirm-button.png",
+                "type": "image",
+                "key": "move-confirm-button"
+            },
+            {
+                "url": "assets/images/move-decline-button.png",
+                "type": "image",
+                "key": "move-decline-button"
+            },
+            {
+                "url": "assets/images/player-1.png",
+                "type": "image",
+                "key": "player-1"
+            },
+            {
+                "url": "assets/images/player-2.png",
+                "type": "image",
+                "key": "player-2"
+            },
+            {
+                "url": "src/scripts/SocketManager.js",
+                "type": "script",
+                "key": "SocketManager"
+            },
+            {
+                "url": "src/scripts/SoundManager.js",
+                "type": "script",
+                "key": "SoundManager"
+            },
+            {
+                "url": "assets/images/v-wall.png",
+                "type": "image",
+                "key": "v-wall"
+            },
+            {
+                "url": "assets/images/wall.png",
+                "type": "image",
+                "key": "wall"
+            }
+        ]
+    }
+}
